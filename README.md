@@ -1,0 +1,2 @@
+# README
+Elo byku malinowy!
